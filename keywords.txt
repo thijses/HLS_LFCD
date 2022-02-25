@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map For HLS_LFCD lidar
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+HLS_LFCD	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+startSpinning	KEYWORD2
+startSpinningAndWait	KEYWORD2
+stopSpinning	KEYWORD2
+stopSpinningAndWait	KEYWORD2
+run	KEYWORD2
+RPM	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+spinning	LITERAL1
+rotationCount	LITERAL1
+RPMraw	LITERAL1
+dataArray	LITERAL1
+volatileDegree	LITERAL1
+dataArrayWriting	LITERAL1
+ChecksumResult	LITERAL1
+postParseCallback	LITERAL1
